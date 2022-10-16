@@ -9,4 +9,5 @@ require (
 	google.golang.org/protobuf v1.27.1
 	lukechampine.com/flagg v1.1.1
 	lukechampine.com/frand v1.4.2
+	github.com/elastic/go-elasticsearch/v8 main
 )
