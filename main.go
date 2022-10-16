@@ -14,8 +14,8 @@ import (
 
 	"github.com/google/uuid"
 
-	hulu "github.com/chris124567/hulu/client"
-	"github.com/chris124567/hulu/widevine"
+	hulu "github.com/SET-UTube/hhhhh/client"
+	"github.com/SET-UTube/hhhhh/widevine"
 	"lukechampine.com/flagg"
 )
 
