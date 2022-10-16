@@ -1,4 +1,4 @@
-module github.com/chris124567/hulu
+module github.com/SET-UTube/hhhhh
 
 go 1.16
 
