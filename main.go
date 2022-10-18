@@ -12,6 +12,7 @@ import (
 	"text/tabwriter"
 	"time"
 
+	"github.com/elastic/go-elasticsearch"
 	"github.com/google/uuid"
 
 	hulu "github.com/SET-UTube/hhhhh/client"
